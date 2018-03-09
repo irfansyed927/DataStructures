@@ -1,0 +1,26 @@
+******************************************************************
+			OUTPUT REC 4
+***********************************************************
+
+fox04:~/Rec04> gcc rec04.c
+fox04:~/Rec04> ./a.out
+Enter x cordinate of a
+4.5
+Enter y cordinate of a
+3.6
+Enter Width of a
+8.9
+Enter Height of a
+7.9
+
+Enter x cordinate of b
+9.8
+Enter y cordinate of b
+7.8
+Enter Width of b
+2.8
+Enter Height of b
+1.9
+
+Rectangle a and b overlaps.
+

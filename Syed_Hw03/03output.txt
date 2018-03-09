@@ -1,0 +1,24 @@
+fox04:~/Syed_Hw03> htmlchecker sample1.html
+Tag is: <title>
+Tag is: <b>
+Tag is: </title>
+Tag is: </b>
+Tag is: <p>
+Tag is: <b>
+Tag is: </b>
+HTML Tags are not nested correctly
+fox04~/Syed_Hw03> htmlchecker sample.html
+Tag is: <title>
+Tag is: <b>
+Tag is: </b>
+Tag is: </title>
+Tag is: <h1>
+Tag is: <i>
+Tag is: <b class="c1">
+Tag is: </b>
+Tag is: </i>
+Tag is: </h1>
+Tag is: <p id=par1">
+Tag is: </p>
+HTML Tags are nested correctly
+fox04:~/Syed_Hw03> 

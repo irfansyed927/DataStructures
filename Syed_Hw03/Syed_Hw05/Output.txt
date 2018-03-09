@@ -1,0 +1,123 @@
+***************OUTPUT********************
+
+fox04:~/Syed_Hw05>gcc Bst.c
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 1
+Enter an element : 10
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 1
+Enter an element : 20
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 1
+Enter an element : 5
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 4
+The smallest Number is 5
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 3
+Enter an element : 100
+Element not Found
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 2
+Enter an element : 20
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 6
+20
+10
+
+1. Insert
+2. Delete
+3. Find
+4. Find Min
+5. Find Max
+6. Display
+7. List Preorder
+8. List Postorder
+9. List Levelorder
+10. Height
+11. Sum
+12. Quit
+Enter your Choice : 7
